@@ -53,7 +53,7 @@ All models were evaluated using **R² Score**, **Mean Squared Error (MSE)**, and
 
 I’ve also released a **12 well production dataset** used in this project on Kaggle. It includes 17 parameters such as pressures, temperatures, fluid content, and gas lift info enabling researchers and practitioners to experiment and improve on this baseline.
 
-📦 **Access the dataset**: [Kaggle - ProdIQ Dataset Series]((https://www.kaggle.com/datasets/sgobir/production-dataset/data))
+📦 **Access the dataset**: [Kaggle - ProdIQ Dataset Series][((https://www.kaggle.com/datasets/sgobir/production-dataset/data))]
 
 
 
